@@ -1,0 +1,29 @@
+/* Base Styles */
+body {
+  background-color: #252525;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bbb;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #141414;
+  padding: 1rem;
+}
+
+.navbar-logo a {
+  font-size
